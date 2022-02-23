@@ -2,7 +2,7 @@
 ~
 Read 'tests/io.txt';
 Print If (== 'foo\nbar')
-  'PASS: Reading multi-line file to string'
+	'PASS: Reading multi-line file to string'
 else
-  'FAIL: Reading multi-line file to string';
+	'FAIL: Reading multi-line file to string';
 ~
